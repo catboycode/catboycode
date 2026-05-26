@@ -43,8 +43,8 @@
   
 | 📁 | ᴄᴏɴᴛᴀᴄᴛ-ᴍᴇ | ᴅᴇꜱᴄʀɪᴘᴛɪᴏɴ | ꜱᴛᴀ𝒕𝒖𝒕 |
 |:---:|:-------:|:----------:|:------:|
-| 🦈 | [ShxrkCleaner](https://github.com/WumaShxrk/ShxrkCleaner) | A tool to safely clean and optimize your PC | 💙 Active |
-| 🎁 | [Token Helper](https://github.com/WumaShxrk/token-helper) | A tool to retrieve your Discord token from your local machine | 💙 Active |
+| 🦈 | [ShxrkCleaner](https://github.com/catboycode/ShxrkCleaner) | A tool to safely clean and optimize your PC | 💙 Active |
+| 🎁 | [Token Helper](https://github.com/catboycode/token-helper) | A tool to retrieve your Discord token from your local machine | 💙 Active |
 | 🎮 | [Wuma Protocol](https://protocol.wumashxrk.xyz) | An addictive incremental web game inspired by paperclips | 💙 Online |
 
 </div>
