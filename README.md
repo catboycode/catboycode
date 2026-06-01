@@ -17,10 +17,6 @@
 
 ## 🖤 ᴀʙᴏᴜᴛ ᴍᴇ 🖤
 
-<a href="https://ibb.co/k61PkpmW">
-  <img align="right" src="https://i.ibb.co/5xFJtdKf/0a7f967eb57a8f570ae4da75d15d68ca.jpg" alt="WumaShxrk Avatar" border="0" width="280">
-</a>
-
 <p align="left">
   안녕하세요! (Hello!) I am <b>WumaShxrk</b>, a passionate <b>VibeCoder</b> blending technical fluidity with digital aesthetics. 🌌✨<br><br>
   For me, coding is all about "flow." I love creating tools that simplify life while maintaining a polished visual atmosphere. Whether I'm developing utilities or optimizing my environment, I always seek the perfect balance between efficiency and style.
@@ -30,12 +26,6 @@
 - 💙 Passions: Video Games, Anime, Code and Graphic Design
 - 🔍 Specialty: Crafting smooth and stylish digital experiences
 - 🌟 Motto: "No need to be a machine to code, you just need the right frequency."
-
-<div align="center">
-  <a href="https://ibb.co/BVvtR35x">
-    <img src="https://i.ibb.co/d0XryMwq/7e617230ae15f4cb117aef7595f79d0b.jpg" alt="Banner Middle" border="0" width="400px">
-  </a>
-</div>
 
 ## 🚀 ᴍᴀɪɴ ʀᴇᴘᴏꜱɪᴛᴏʀɪᴇꜱ
 
@@ -47,12 +37,6 @@
 | 🎁 | [Token Helper](https://github.com/catboycode/token-helper) | A tool to retrieve your Discord token from your local machine | 🖤 Active |
 | 🎮 | [Wuma Protocol](https://protocol.wumashxrk.xyz) | An addictive incremental web game inspired by paperclips | 🖤 Online |
 
-</div>
-
-<div align="center">
-  <img src="https://i.pinimg.com/originals/ae/f3/a9/aef3a9715e0face5f30fee87b365ea99.gif" width="400px"/>
-  <br />
-  <code>🔹 Code is just a frequency, you just need to tune in 🔹</code>
 </div>
 
 ## 🌐 ᴄᴏɴᴛᴀᴄᴛ-ᴍᴇ 🌐
@@ -68,7 +52,7 @@
 ## 📊 ɢɪᴛʜᴜʙ ꜱᴛᴀᴛɪꜱᴛɪᴄꜱ 📊
 
 <div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=WumaShxrk&show_icons=true&title_color=ffffff&icon_color=fee1ff&text_color=ffffff&bg_color=0080ff&border_color=fee1ff&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=catboycode&show_icons=true&title_color=ffffff&icon_color=fee1ff&text_color=ffffff&bg_color=0080ff&border_color=fee1ff&count_private=true"/>
 </div>
 
   ♣️ 𝐂𝐫𝐞𝐚𝐭𝐞𝐝 𝐰𝐢𝐭𝐡 𝐥𝐨𝐯𝐞 ♣️
