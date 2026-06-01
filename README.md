@@ -2,7 +2,7 @@
   
   # ✧･ﾟ: *✧･ﾟ ᴡᴜᴍᴀꜱʜxʀᴋ *:･ﾟ✧*:･ﾟ✧
 
-  <img src="maxV2.png" alt="WumaShxrk Banner" style="width: 100%; height: 300px; object-fit: cover; object-position: center;"/>
+  <img src="chat.png" alt="WumaShxrk Banner" style="width: 100%; height: 300px; object-fit: cover; object-position: center;"/>
   
   <br />
   <img src="https://media.tenor.com/Ry1-Pr-C56gAAAAC/kyoko-kirigiri-danganronpa.gif" width="200px"/>
@@ -15,7 +15,7 @@
 
 </div>
 
-## 💙 ᴀʙᴏᴜᴛ ᴍᴇ 💙
+## 🖤 ᴀʙᴏᴜᴛ ᴍᴇ 🖤
 
 <a href="https://ibb.co/k61PkpmW">
   <img align="right" src="https://i.ibb.co/5xFJtdKf/0a7f967eb57a8f570ae4da75d15d68ca.jpg" alt="WumaShxrk Avatar" border="0" width="280">
@@ -43,9 +43,9 @@
   
 | 📁 | ᴄᴏɴᴛᴀᴄᴛ-ᴍᴇ | ᴅᴇꜱᴄʀɪᴘᴛɪᴏɴ | ꜱᴛᴀ𝒕𝒖𝒕 |
 |:---:|:-------:|:----------:|:------:|
-| 🦈 | [ShxrkCleaner](https://github.com/catboycode/ShxrkCleaner) | A tool to safely clean and optimize your PC | 💙 Active |
-| 🎁 | [Token Helper](https://github.com/catboycode/token-helper) | A tool to retrieve your Discord token from your local machine | 💙 Active |
-| 🎮 | [Wuma Protocol](https://protocol.wumashxrk.xyz) | An addictive incremental web game inspired by paperclips | 💙 Online |
+| 🦈 | [ShxrkCleaner](https://github.com/catboycode/ShxrkCleaner) | A tool to safely clean and optimize your PC | 🖤 Active |
+| 🎁 | [Token Helper](https://github.com/catboycode/token-helper) | A tool to retrieve your Discord token from your local machine | 🖤 Active |
+| 🎮 | [Wuma Protocol](https://protocol.wumashxrk.xyz) | An addictive incremental web game inspired by paperclips | 🖤 Online |
 
 </div>
 
@@ -71,6 +71,6 @@
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=WumaShxrk&show_icons=true&title_color=ffffff&icon_color=fee1ff&text_color=ffffff&bg_color=0080ff&border_color=fee1ff&count_private=true"/>
 </div>
 
-  🔹 𝐂𝐫𝐞𝐚𝐭𝐞𝐝 𝐰𝐢𝐭𝐡 𝐥𝐨𝐯𝐞, 𝐥𝐨𝐠𝐢𝐜 𝐚𝐧𝐝 𝐛𝐥𝐮𝐞 𝐯𝐢𝐛𝐞𝐬 🔹
+  ♣️ 𝐂𝐫𝐞𝐚𝐭𝐞𝐝 𝐰𝐢𝐭𝐡 𝐥𝐨𝐯𝐞 ♣️
   
 </div>
