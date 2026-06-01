@@ -48,13 +48,6 @@
   [![WumaShxrk.xyz](https://img.shields.io/badge/WebSite-WumaShxrk.xyz-000000?style=for-the-badge&labelColor=fee1ff)](https://wumashxrk.xyz)
   
 </div>
-
-## 📊 ɢɪᴛʜᴜʙ ꜱᴛᴀᴛɪꜱᴛɪᴄꜱ 📊
-
-<div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=catboycode&show_icons=true&title_color=ffffff&icon_color=fee1ff&text_color=ffffff&bg_color=0080ff&border_color=fee1ff&count_private=true"/>
-</div>
-
   ♣️ 𝐂𝐫𝐞𝐚𝐭𝐞𝐝 𝐰𝐢𝐭𝐡 𝐥𝐨𝐯𝐞 ♣️
   
 </div>
