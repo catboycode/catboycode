@@ -8,7 +8,7 @@
   <img src="https://media.tenor.com/Ry1-Pr-C56gAAAAC/kyoko-kirigiri-danganronpa.gif" width="200px"/>
   <br />
   
-  [![GitHub followers](https://img.shields.io/github/followers/WumaShxrk?style=for-the-badge&color=0080ff&labelColor=fee1ff&logoColor=white)](https://github.com/WumaShxrk)
+  [![GitHub followers](https://img.shields.io/github/followers/catboycode?style=for-the-badge&color=0080ff&labelColor=fee1ff&logoColor=white)](https://github.com/WumaShxrk)
   [![WebSite](https://img.shields.io/badge/WebSite-WumaShxrk-0080ff?style=for-the-badge&labelColor=fee1ff&logoColor=white)](https://wumashxrk.xyz)
   [![Protocol Game](https://img.shields.io/badge/PLAY-Protocol-0080ff?style=for-the-badge&logo=cpu&logoColor=white&labelColor=fee1ff)](https://protocol.wumashxrk.xyz)
   [![Selfbot](https://img.shields.io/badge/Selfbot-Discord-0080ff?style=for-the-badge&labelColor=ffffff&logoColor=white)](https://sb.wumashxrk.xyz)
