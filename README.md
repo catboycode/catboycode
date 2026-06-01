@@ -8,10 +8,10 @@
   <img src="https://media.tenor.com/Ry1-Pr-C56gAAAAC/kyoko-kirigiri-danganronpa.gif" width="200px"/>
   <br />
   
-  [![GitHub followers](https://img.shields.io/github/followers/catboycode?style=for-the-badge&color=0080ff&labelColor=fee1ff&logoColor=white)](https://github.com/WumaShxrk)
-  [![WebSite](https://img.shields.io/badge/WebSite-WumaShxrk-0080ff?style=for-the-badge&labelColor=fee1ff&logoColor=white)](https://wumashxrk.xyz)
-  [![Protocol Game](https://img.shields.io/badge/PLAY-Protocol-0080ff?style=for-the-badge&logo=cpu&logoColor=white&labelColor=fee1ff)](https://protocol.wumashxrk.xyz)
-  [![Selfbot](https://img.shields.io/badge/Selfbot-Discord-0080ff?style=for-the-badge&labelColor=ffffff&logoColor=white)](https://sb.wumashxrk.xyz)
+  [![GitHub followers](https://img.shields.io/github/followers/catboycode?style=for-the-badge&color=000000&labelColor=fee1ff&logoColor=white)](https://github.com/WumaShxrk)
+  [![WebSite](https://img.shields.io/badge/WebSite-WumaShxrk-000000?style=for-the-badge&labelColor=fee1ff&logoColor=white)](https://wumashxrk.xyz)
+  [![Protocol Game](https://img.shields.io/badge/PLAY-Protocol-000000?style=for-the-badge&logo=cpu&logoColor=white&labelColor=fee1ff)](https://protocol.wumashxrk.xyz)
+  [![Selfbot](https://img.shields.io/badge/Selfbot-Discord-000000?style=for-the-badge&labelColor=ffffff&logoColor=white)](https://sb.wumashxrk.xyz)
 
 </div>
 
@@ -59,9 +59,9 @@
 
 <div align="center">
   
- [![Discord](https://img.shields.io/badge/Discord-newscarification-0080ff?style=for-the-badge&logo=discord&logoColor=white&labelColor=fee1ff)](https://sb.wumashxrk.xyz)
-  [![Guns.lol](https://img.shields.io/badge/GUNS.LOL-Profile-0080ff?style=for-the-badge&labelColor=white)](https://guns.lol/wumashxrk)
-  [![WumaShxrk.xyz](https://img.shields.io/badge/WebSite-WumaShxrk.xyz-0080ff?style=for-the-badge&labelColor=fee1ff)](https://wumashxrk.xyz)
+ [![Discord](https://img.shields.io/badge/Discord-newscarification-000000?style=for-the-badge&logo=discord&logoColor=white&labelColor=fee1ff)](https://sb.wumashxrk.xyz)
+  [![Guns.lol](https://img.shields.io/badge/GUNS.LOL-Profile-000000?style=for-the-badge&labelColor=white)](https://guns.lol/wumashxrk)
+  [![WumaShxrk.xyz](https://img.shields.io/badge/WebSite-WumaShxrk.xyz-000000?style=for-the-badge&labelColor=fee1ff)](https://wumashxrk.xyz)
   
 </div>
 
